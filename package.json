@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-mido",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "peerDependencies": {
+    "eslint": ">= 5"
+  },
+  "author": "Midnight Blues",
+  "license": "ISC",
+  "dependencies": {},
+  "files": [
+    "index.js",
+    "package.json"
+  ]
+}
